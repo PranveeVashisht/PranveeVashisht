@@ -1,6 +1,6 @@
-- Hi, I’m @PranveeVashisht
-- I’m interested in App development and Web development, and content writing.
-- I’m currently learning Flutter and DSA.
+- Hey there! I’m @PranveeVashisht
+- I’m interested in Web development- both Front-end and back-end, as well as content writing.
+- I’m currently learning Front-end development and DSA.
 - I’m looking to collaborate on any projects which are suitable to my interests.
 
 
