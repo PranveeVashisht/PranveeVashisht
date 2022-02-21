@@ -1,6 +1,6 @@
 ✨Hey there! I’m @PranveeVashisht <br/>
-✨I’m interested in Web development- both Front-end and back-end, as well as content writing.<br/>
-✨I’m currently learning Front-end development and DSA.<br/>
+✨I’m interested in Web development- both Front-end and back-end.<br/>
+✨I’m currently learning Front-end development and Python.<br/>
 ✨I’m looking to collaborate on any projects which are suitable to my interests.<br/>
 
 
