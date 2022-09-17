@@ -1,5 +1,5 @@
 ✨Hey there! I’m @PranveeVashisht <br/>
-✨I’m interested in Web development- both Front-end and back-end.<br/>
+✨I’m a keen learner and love to explore new and different tech-domains.</br>
 ✨I’m currently learning ML and Python development.<br/>
 ✨I’m looking to collaborate on any projects which are suitable to my interests.<br/>
 
